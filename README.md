@@ -1,4 +1,4 @@
-# _**Animal-Card**_
+# _**Animal Card**_
 
 **Basic HTML Page**
 
