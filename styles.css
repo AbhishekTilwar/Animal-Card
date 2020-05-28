@@ -1,0 +1,39 @@
+/* add your CSS here */
+li {
+    list-style-type: none;
+}
+ul {
+    padding-left: 0;
+}
+.italics {
+    font-style: italic;
+    text-align: justify;
+}
+span {
+    font-weight: bold;
+}
+img {
+  width: 300px;
+}
+.animal-info {
+  font-style: italic ;
+  border : 2px solid grey;
+  padding: 1px;
+}
+.outerbox {
+    width: 300px;
+    border: 1px solid rgb(235, 235, 235);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 8px 8px rgb(235,235,235)
+  }
+  .innerbox{
+    width: 278px;
+    border: 1px solid rgb(235, 235, 235);
+    padding: 10px;
+    margin: 0px;
+  }
+.justify{
+    text-align: justify;
+}
